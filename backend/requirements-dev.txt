@@ -1,0 +1,8 @@
+-r requirements.txt
+black
+flake8==5.0.4
+isort==5.10.1
+# pytest-cov==2.7.1
+# pytest-sugar==0.9.2
+pytest==7.2.1
+safety==2.3.1
